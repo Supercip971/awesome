@@ -39,6 +39,7 @@ Created by the [DEVSE discord server](https://discord.com/invite/3XjkM6q).
 - [OS X ABI Mach-O File Format Reference](https://github.com/aidansteele/osx-abi-macho-file-format-reference)
 - [Linux insides](https://github.com/0xAX/linux-insides)
 - [Linux / Windows Syscalls table](https://syscalls.w3challs.com/)
+- [Introduction to the minix file system](http://ohm.hgesser.de/sp-ss2012/Intro-MinixFS.pdf)
 
 ## Wikis
 
